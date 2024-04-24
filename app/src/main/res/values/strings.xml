@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="title_text">Shubham Ojha</string>
+    <string name="profession_text">Android Developer</string>
+    <string name="email_id">shubhamojha2103@gmail.com</string>
+    <string name="github_id">\@Sky-script</string>
+    <string name="phone_id">+48 603657045</string>
+</resources>
